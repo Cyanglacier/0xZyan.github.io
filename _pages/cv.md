@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chengdu University of TCM, 2020
+* M.D in Traditional Chinese Medicine of Andrology, Chengdu University of TCM, 2025 (expected)
+* 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Auguest 2018: Community Manager
+  * IPFSFAN Inc. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2021: Product Manager
+  * Hangyuan Tech Inc.
+
+* Freelancer now
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Understand basic instructure and product design in Web3.
+* Medical Practitioner (in TCM).
 
 Publications
 ======
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* None
